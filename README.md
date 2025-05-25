@@ -37,7 +37,8 @@ This project explores diverse deep learning architectures and their real-world a
 - Used pretrained ViT model via `timm` and fine-tuned for binary classification.
 - Built and deployed an interactive **Streamlit** app.
 
-** Live App: [ViT Cat vs Dog Classifier](https://vit-cat-dog-classifier-sv94-sarojavu.streamlit.app/)**
+**Live App: [ViT Cat vs Dog Classifier](https://vit-cat-dog-classifier-sv94-sarojavu.streamlit.app/)**
+
 ---
 
 ## Real-World Applications
