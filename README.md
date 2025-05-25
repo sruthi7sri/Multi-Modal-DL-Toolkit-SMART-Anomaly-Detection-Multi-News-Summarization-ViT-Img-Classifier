@@ -101,5 +101,5 @@ Educational use only.
 
 I'm always open to feedback, collaborations, or new opportunities in deep learning, ML deployment, and NLP research.
 
-- Email: sruthisri7@gmail.com
+- Email: sruthi7sri@gmail.com
 - For issues, suggestions, or improvements: [Open an Issue](https://github.com/sruthi7sri/deep-learning-autoencoder-transformer-llm-apps/issues)
