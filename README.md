@@ -26,7 +26,7 @@ This project explores diverse deep learning architectures and their real-world a
 - Evaluated with ROUGE, BLEU, BERTScore.
 - Deployed via Gradio.
 
-> Live App: [BART Summarizer – Multi-News](https://huggingface.co/spaces/Sruthisri/bart-summarizer-multi-news)
+**Live App: [BART Summarizer – Multi-News](https://huggingface.co/spaces/Sruthisri/bart-summarizer-multi-news)**
 
 ### 04. Spam Classification with DistilBERT (LLM Probing)
 - Extracted embeddings from DistilBERT and trained a classifier head.
@@ -37,8 +37,7 @@ This project explores diverse deep learning architectures and their real-world a
 - Used pretrained ViT model via `timm` and fine-tuned for binary classification.
 - Built and deployed an interactive **Streamlit** app.
 
-> Live App: [ViT Cat vs Dog Classifier](https://vit-cat-dog-classifier-sv94-sarojavu.streamlit.app/)
-
+** Live App: [ViT Cat vs Dog Classifier](https://vit-cat-dog-classifier-sv94-sarojavu.streamlit.app/)**
 ---
 
 ## Real-World Applications
