@@ -90,10 +90,13 @@ jupyter notebook
 - Demonstrate model performance through visualizations, metrics (F1, ROUGE, BLEU), and interactive tools.
 
 ---
-## License
 
-© 2025 Sruthisri Venkateswaran. All rights reserved.
-Educational use only.
+## Collaborators
+
+- Sruthisri Venkateswaran  
+- Saroja Vuluvabeeti
+
+© 2025 Sruthisri Venkateswaran and Saroja Vuluvabeeti. All rights reserved.
 
 ---
 
