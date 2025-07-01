@@ -1,4 +1,4 @@
-# Deep Learning Architectures: Autoencoders, Transformers & LLM Apps
+# Multi-Modal Deep Learning Toolkit: SMART Anomaly Detection, Multi-News Summarization & ViT Image Classifier
 
 ## Overview
 This project explores diverse deep learning architectures and their real-world applications, from anomaly detection and text summarization to image classification and spam detection. It includes implementations of **autoencoders**, **transformers from scratch**, and **pretrained LLMs** (like BART, DistilBERT, ViT) and deploys key models using **Streamlit** and **Gradio**.
