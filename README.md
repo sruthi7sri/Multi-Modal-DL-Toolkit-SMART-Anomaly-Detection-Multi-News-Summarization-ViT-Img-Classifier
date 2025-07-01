@@ -64,7 +64,7 @@ This project explores diverse deep learning architectures and their real-world a
 ## Running the Project
 ### Setup Environment
 ```bash
-git clone https://github.com/sruthi7sri/deep-learning-autoencoder-transformer-llm-apps.git
+git clone https://github.com/sruthi7sri/Multi-Modal-DL-Toolkit-SMART-Anomaly-Detection-Multi-News-Summarization-ViT-Img-Classifier.git
 cd deep-learning-autoencoder-transformer-llm-apps
 python -m venv venv
 source venv/bin/activate  # macOS/Linux
@@ -105,4 +105,4 @@ jupyter notebook
 I'm always open to feedback, collaborations, or new opportunities in deep learning, ML deployment, and NLP research.
 
 - Linkedin: ([www.linkedin.com/in/sruthisri/](https://www.linkedin.com/in/sruthisri/))
-- For issues, suggestions, or improvements: [Open an Issue](https://github.com/sruthi7sri/deep-learning-autoencoder-transformer-llm-apps/issues)
+- For issues, suggestions, or improvements: [Open an Issue](https://github.com/sruthi7sri/Multi-Modal-DL-Toolkit-SMART-Anomaly-Detection-Multi-News-Summarization-ViT-Img-Classifier/issues)
